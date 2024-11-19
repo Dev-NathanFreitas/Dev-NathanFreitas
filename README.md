@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1031549&mcid=6821526239111716925&cid=&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7qUDBo78Sl5cCn8xKkvvTuygpJSAwvjSReSmL2QXOgyUt5pDpifdKAaAp5WEALw_wcB&gclsrc=aw.ds)
 
 
-![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-NathanFreitas&show_icons=true&theme=dracula)
+![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-NathanFreitas&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que eu tenho conhecimento
 
