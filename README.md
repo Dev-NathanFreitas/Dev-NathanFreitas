@@ -3,11 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=155cc0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Nathan+Freitas;Tenho+20+anos;Sou+de+Carapicuíba,+SP;Estou+cursando+análise+e+desenvolvimento+de+sistemas;Seja+bem+vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg) 
 
-
-###
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-NathanFreitas&show_icons=true&count_private=true&hide_border=true&title_color=155cc0&icon_color=155cc0&text_color=c9d1d9&bg_color=0d1117" alt="Dev-NathanFreitas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NathanFreitas&layout=compact&hide_border=true&title_color=155cc0&text_color=155cc0&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NathanFreitas&layout=compact&hide_border=True&title_color=155cc0&text_color=155cc0&bg_color=0d1117" />
 </div>
 
 [![Dev-NathanFreitas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-NathanFreitas&bg_color=000000&color=155cc0&line=155cc0&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
