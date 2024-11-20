@@ -11,7 +11,7 @@
 [![Dev-NathanFreitas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-NathanFreitas&bg_color=000000&color=155cc0&line=155cc0&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-NathanFreitas&theme=tokyo&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-NathanFreitas&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
